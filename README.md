@@ -1,2 +1,2 @@
-# Python-Shell
-A basic shell in python
+# shell
+basic shell in python
